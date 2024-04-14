@@ -1,2 +1,1 @@
-# photo-to-spherical-panorama
-Turn an ordinary long map into a spherical panorama
+My first project，it can turn an ordinary long picture into a spherical panorama，Short images will be distorted at the junction，Only 360 degrees lacks the sky and the ground，It is recommended for reference only，The effect is not as good as that of pano2vr，Remember to modify the path.
